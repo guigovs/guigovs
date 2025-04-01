@@ -1,4 +1,4 @@
-## Hi there, I'm Guilherme ✨
+## Hi there, I'm Guilherme
 
 - 💻 Interning in fullStack Development  
 - 📚 Studying Computer Science  
