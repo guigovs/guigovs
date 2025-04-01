@@ -7,7 +7,7 @@
 ---
 
 ### 📊 GitHub Stats & Most Used Languages  
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigovs&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigovs&layout=compact&theme=dark" />
 </div>
