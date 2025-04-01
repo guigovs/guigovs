@@ -1,25 +1,25 @@
-### Hi there, i'm Tay ✨
+## Hi there, I'm Guilherme ✨
 
-- 💻 Interning in fullStack Development
-- 📚 Cursing Computer Science
-- 🌱 Currently learning java
+- 💻 Interning in fullStack Development  
+- 📚 Studying Computer Science  
+- 🌱 Currently learning Java  
 
-##
+---
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigovs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&PAT_1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigovs&layout=compact&langs_count=10&hide_progress=true&theme=tokyonight&PAT_1"/>
-</div>
-  
-##
+### 📊 Guilherme's GitHub Stats  
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigovs&show_icons=true&theme=dark)
 
-<div> 
-  <a href="https://www.instagram.com/guim_dias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermedias2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermemascarehas0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
 
+### 🎯 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigovs&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guim_dias)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermedias2501@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermemascarenhas0)
 
 <!--
 **guigovs/guigovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
