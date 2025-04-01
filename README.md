@@ -1,8 +1,8 @@
 ## Hi there, I'm Guilherme
 
-- 💻 Interning in fullStack Development  
+<!-- - 💻 Interning in fullStack Development  -->
 - 📚 Studying Computer Science  
-- 🌱 Currently learning Java  
+- 🌱 Currently learning Python  
 
 ---
 
