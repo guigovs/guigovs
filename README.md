@@ -6,7 +6,7 @@
 
 ---
 
-### 📊 Tayna's GitHub Stats  
+### 📊 Guilherme's GitHub Stats  
 ![Tayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigovs&show_icons=true&theme=dark)
 
 ---
