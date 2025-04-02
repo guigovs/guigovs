@@ -49,8 +49,8 @@
 ### GitHub Stats ⚡
 <div>
   <a href="https://github.com/guigovs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigovs&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigovs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigovs&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide=issues,prs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigovs&layout=compact&langs_count=6&theme=github_dark"/>
   <p>
 </div>
 
