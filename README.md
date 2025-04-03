@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Tecnologias e Ferramentas 🔧
+### Tecnologias e ferramentas já trabalhadas... 🧑‍💻
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
